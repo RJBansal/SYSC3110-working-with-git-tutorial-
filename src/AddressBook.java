@@ -17,7 +17,7 @@ class AddressBook {
 	{
 		this.info.remove(buddy.getName());
 	}
-	
+	//
 	public static void main(String[] args) {
 		System.out.println("Address Book");
 		BuddyInfo buddy = new BuddyInfo("Ryan", "aaa", "613115261");
