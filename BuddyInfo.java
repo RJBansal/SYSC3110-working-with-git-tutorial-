@@ -67,8 +67,8 @@ public class BuddyInfo {
 	}
 	
 	public String toString() {
-		return "Name is: " + this.getName() + " Address is: " + this.getAddress()
-			+ " Number is: " + this.getPhoneNumber();
+		return "Name: " + this.getName() + " Address: " + this.getAddress()
+			+ " Number: " + this.getPhoneNumber();
 	}
 
 
